@@ -1,14 +1,11 @@
 {
-    "name": "br.ufrgs.vislab.workshop",
-    "version": "1.0.0",
-    "displayName": "VISLab Workshop",
-    "description": "VISLab Workshop - an example of an Embedded Package",
-    "unity": "2022.3",
-    "author": {
-        "name": "Mauricio Escobar"
-    },
-    "unityRelease": "62f3",
-    "dependencies": {
-        "com.unity.textmeshpro": "3.0.9"
-    }
+  "name": "br.ufrgs.vislab.workshop",
+  "version": "1.0.1",
+  "displayName": "VISLab Workshop",
+  "description": "VISLab Workshop - an example of an Embedded Package",
+  "unity": "2022.3",
+  "author": {
+    "name": "Mauricio Escobar"
+  },
+  "unityRelease": "62f3"
 }

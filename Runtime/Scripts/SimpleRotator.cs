@@ -1,6 +1,5 @@
 using UnityEngine;
 
-
 namespace VISLab.Workshop
 {
     public class SimpleRotator : MonoBehaviour
